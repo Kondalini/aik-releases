@@ -1,7 +1,4 @@
-  # AIK Releases
-  
-  Signed update packages for the platform.
-  
+
 **AIK** is an AI automation platform for small and mid-size businesses: AI agents that read
 e-mail, process invoices and documents, answer phone calls, browse websites, work with
 databases and post to social media, on a schedule and with a person's approval before
